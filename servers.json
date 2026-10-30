@@ -13,5 +13,20 @@
     "url": "red.blackrussia.online",
     "ip": "217.60.240.103",
     "port": "7777"
+  },
+    {
+    "id": 2,
+    "status": "Тестовый",
+    "online": "1",
+    "maxonline": "1300",
+    "color": "FF0000",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | RED",
+    "firstname": "TEST P4",
+    "secondname": "",
+    "url": "red.blackrussia.online",
+    "ip": "217.60.240.103",
+    "port": "7777"
   }
 ]
