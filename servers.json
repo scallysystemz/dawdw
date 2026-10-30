@@ -14,11 +14,11 @@
     "ip": "217.60.240.103",
     "port": "7777"
   },
-    {
+  {
     "id": 2,
     "status": "Тестовый",
-    "online": "1",
-    "maxonline": "1300",
+    "online": "9",
+    "maxonline": "1000",
     "color": "FF0000",
     "x2": "false",
     "key": "1424",
