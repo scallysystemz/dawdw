@@ -30,5 +30,21 @@
     "url": "red.blackrussia.online",
     "ip": "179.61.132.140",
     "port": "7777"
+  },
+  {
+    "id": 2,
+    "status": "Тестовый",
+    "online": "9",
+    "maxonline": "1000",
+    "color": "FF0000",
+    "x2": "false",
+    "key": "1424",
+    "name": "BLACK RUSSIA | RED",
+    "firstname": "TEST P4 (2)",
+    "logo": "arzamas",
+    "secondname": "2",
+    "url": "red.blackrussia.online",
+    "ip": "195.18.27.226",
+    "port": "2342"
   }
 ]
