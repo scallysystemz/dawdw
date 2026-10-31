@@ -14,21 +14,5 @@
     "url": "red.blackrussia.online",
     "ip": "194.93.2.62",
     "port": "25100"
-  },
-  {
-    "id": 2,
-    "status": "",
-    "online": "141",
-    "maxonline": "1000",
-    "color": "FF0000",
-    "x2": "false",
-    "key": "1424",
-    "name": "BLACK RUSSIA | RED",
-    "firstname": "Грозный",
-    "logo": "grozny",
-    "secondname": "2",
-    "url": "grozny.blackrussia.online",
-    "ip": "80.66.82.130",
-    "port": "5125"
   }
 ]
