@@ -1,22 +1,6 @@
 [
   {
     "id": 1,
-    "status": "",
-    "online": "48",
-    "maxonline": "1300",
-    "color": "FF0000",
-    "x2": "false",
-    "key": "1424",
-    "name": "BLACK RUSSIA | RED",
-    "firstname": "test-old",
-    "logo": "moscow",
-    "secondname": "123123",
-    "url": "red.blackrussia.online",
-    "ip": "217.60.240.103",
-    "port": "7777"
-  },
-  {
-    "id": 2,
     "status": "Тестовый",
     "online": "9",
     "maxonline": "1000",
@@ -28,23 +12,23 @@
     "logo": "arzamas",
     "secondname": "2",
     "url": "red.blackrussia.online",
-    "ip": "179.61.132.140",
-    "port": "7777"
+    "ip": "194.93.2.62",
+    "port": "25100"
   },
   {
-    "id": 3,
-    "status": "Тестовый",
-    "online": "9",
+    "id": 2,
+    "status": "",
+    "online": "141",
     "maxonline": "1000",
     "color": "FF0000",
     "x2": "false",
     "key": "1424",
     "name": "BLACK RUSSIA | RED",
-    "firstname": "TEST P4 (2)",
-    "logo": "arzamas",
+    "firstname": "Грозный",
+    "logo": "grozny",
     "secondname": "2",
     "url": "red.blackrussia.online",
-    "ip": "194.93.2.62",
-    "port": "25100"
+    "ip": "80.66.82.130",
+    "port": "5125"
   }
 ]
